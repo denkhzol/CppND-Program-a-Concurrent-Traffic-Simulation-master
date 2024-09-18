@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eworld/CppND-Program-a-Concurrent-Traffic-Simulation-master/src/TrafficLight.cpp
+iostream
+-
+random
+-
+TrafficLight.h
+/home/eworld/CppND-Program-a-Concurrent-Traffic-Simulation-master/src/TrafficLight.h
+
+/home/eworld/CppND-Program-a-Concurrent-Traffic-Simulation-master/src/TrafficLight.h
+mutex
+-
+deque
+-
+condition_variable
+-
+TrafficObject.h
+/home/eworld/CppND-Program-a-Concurrent-Traffic-Simulation-master/src/TrafficObject.h
+
+/home/eworld/CppND-Program-a-Concurrent-Traffic-Simulation-master/src/TrafficObject.h
+vector
+-
+thread
+-
+mutex
+-
+
