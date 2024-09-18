@@ -40,6 +40,7 @@ When the project is built initially, all traffic lights will be green. When you 
 
 
 ## My output looks like the following:
+```
 $ ./traffic_simulation 
 Vehicle #26::drive: thread id = 140016471316224
 Vehicle #27::drive: thread id = 140016462923520
@@ -67,3 +68,4 @@ Intersection #16: Vehicle #27 is granted entry.
    Message 0 has been sent to the queue
    Message 0 has been sent to the queue
    Message 0 has been sent to the queue
+```
